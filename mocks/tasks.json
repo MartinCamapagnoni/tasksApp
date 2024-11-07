@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "task1",
+        "description": "task1 desc",
+        "created": "31/10/2024",
+        "comments": ["task1 comment", "task1 comment"],
+        "section": "toDo"
+    },
+    {
+        "id": 2,
+        "name": "task2",
+        "description": "task2 desc",
+        "created": "06/11/2024",
+        "comments": ["task2 comment"],
+        "section": "toDo"
+
+    },
+    {
+        "id": 3,
+        "name": "task3",
+        "description": "task3 desc",
+        "created": "23/10/2024",
+        "comments": ["task3 comment", "task3 comment", "task3 comment"],
+        "section": "done"
+    }
+] 

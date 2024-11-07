@@ -1,0 +1,17 @@
+*{
+    color: black;
+}
+
+.tasks-container  {
+    height: 40rem;
+    color: white;
+}
+
+.task-container {
+    cursor: pointer;
+}
+
+.numberTasks {
+    color: white;
+    
+}
